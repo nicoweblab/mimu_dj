@@ -1,0 +1,42 @@
+h2{color: rgb(166, 7, 240)};
+p{ font-family: 'Courier New', Courier, monospace;}
+body{ background-color: rgb(187, 162, 255);}
+.un_poemita{
+    width: 100%}
+
+
+    .CUADRADO{ 
+    WIDTH:300PX ;
+    HEIGHT: 300PX;
+    background-color: rgb(162, 0, 255);
+    }
+    .CIRCULO{ 
+        WIDTH:300PX ;
+        HEIGHT: 300PX;
+        background-color: rgb(162, 0, 255);
+        border-radius: 50%;
+        }
+        h1{
+            color: #7db0da;
+        }
+    h1{
+        COLOR: rgb(183, 0, 255);
+    }
+h1:hover{
+    color: blue;
+    scale:(2);
+}
+button{
+    background-color: #e97aff;
+}
+button:hover{
+    background-color:rgb(17, 14, 196);
+
+    color:black
+}
+button{
+    background-color: rgb(255, 0, 191);
+    color: #3a1af0;
+    transition-property: backgdround-color;
+    transition-duration: 0.5s;
+}
